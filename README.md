@@ -7,4 +7,4 @@ Build inference frameworks for infer temperatures of the interstellar gas in 4 D
 # Observation data flow
 Illustration of data flow in the inference frameworks.
 
-<img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/inference_flow">
+<img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/inference_flow.png">
