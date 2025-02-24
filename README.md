@@ -8,3 +8,8 @@ Build inference frameworks for infer temperatures of the interstellar gas in 4 D
 Illustration of data flow in the inference frameworks.
 
 <img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/inference_flow.png">
+
+
+# Temperature inference along velocity
+
+See "s01_gas_temperature_in_velocity.ipynb" notebook for the framework for inferring the temperatures along velocity dimension
