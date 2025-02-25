@@ -1,7 +1,7 @@
 # Inference frameworks for interstellar gas temperature
 Machine learning inference frameworks for interstellar gas temperature in galaxies
 
-Build inference frameworks for infer temperatures of the interstellar gas in 4 Dimensions: velocity and spatial dimensions
+Build inference frameworks for infer temperatures of the interstellar gas in 4 Dimensions: 1D velocity and 3D spatial dimensions
 
 
 # Observation data flow
