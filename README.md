@@ -19,3 +19,15 @@ Preliminary results:
 <img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/ts.png">
 
 <img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/ts_vs_vel.png">
+
+
+
+# 2) Temperature inference along 3D spatial dimensions
+
+See "**_s02_gas_temperature_in_spatial_space.ipynb_**" notebook for the framework for inferring the temperatures along 3D sptatial dimensions.
+
+Preliminary results:
+
+<img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/tk.png">
+
+<img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/tk_vs_z.png">
