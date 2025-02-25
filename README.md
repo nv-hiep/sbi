@@ -12,7 +12,7 @@ Illustration of data flow in the inference frameworks.
 
 # 1) Temperature inference along velocity
 
-See "s01_gas_temperature_in_velocity.ipynb" notebook for the framework for inferring the temperatures along velocity dimension
+See "**_s01_gas_temperature_in_velocity.ipynb_**" notebook for the framework for inferring the temperatures along velocity dimension
 
 Preliminary results:
 
