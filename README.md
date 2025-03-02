@@ -35,7 +35,7 @@ Preliminary results:
 
 # 3) Real-world applications of the Neural Inference frameworks: Predicting obesity from human audio data
 
-See "obesity_prediction.ipynb" notebook for the neural framework for predicting obesity from human audio data.
+See "_**obesity_prediction.ipynb**_" notebook for the neural framework for predicting obesity from human audio data.
 
 Preliminary results:
 
