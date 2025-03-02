@@ -44,5 +44,6 @@ Preliminary results:
 Accuracy of the conceptual model: 96%-98%.
 
 **Classification report for the Neural Network**
+
 <img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/Classification_report_for_Neural_Network.png">
 
