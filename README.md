@@ -33,7 +33,7 @@ Preliminary results:
 <img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/tk_vs_z.png">
 
 
-# 3) Real-world applications of the Neural Inference frameworks: predicting obesity from human audio data
+# 3) Real-world applications of the Neural Inference frameworks: Predicting obesity from human audio data
 
 See "obesity_prediction.ipynb" notebook for the neural framework for predicting obesity from human audio data.
 
