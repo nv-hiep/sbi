@@ -33,17 +33,12 @@ Preliminary results:
 <img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/tk_vs_z.png">
 
 
-# 3) Real-world applications of the Neural Inference frameworks: Predicting obesity from human audio data
+# 3) Real-world applications of the Neural Inference frameworks: CO2 forecast from time-series data
 
-See "_**obesity_prediction.ipynb**_" notebook for the neural framework for predicting obesity from human audio data.
+See "_**co2_emission_prediction.ipynb**_" notebook for the neural framework for CO2 emission forecast from time-series data.
 
 Preliminary results:
 
-<img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/obesity_pred_matrix.png">
+<img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/co2_forecast_full.png">
 
-Accuracy of the conceptual model: 96%-98%.
-
-**Classification report for the Neural Network**
-
-<img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/Classification_report_for_Neural_Network.png">
-
+<img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/co2_forecast_zoomin.png">
