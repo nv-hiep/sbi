@@ -39,6 +39,6 @@ See "_**co2_emission_prediction.ipynb**_" notebook for the neural framework for 
 
 Preliminary results:
 
-<img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/co2_forecast_full.png">
+<img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/co2_forecast.png">
 
 <img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/co2_forecast_zoomin.png">
