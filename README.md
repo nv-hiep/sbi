@@ -33,9 +33,9 @@ Preliminary results:
 <img width="501" alt="" src="https://github.com/nv-hiep/sbi/blob/main/figs/tk_vs_z.png">
 
 
-# 3) Real-world applications of the Neural Inference frameworks: CO2 forecast from time-series data
+# 3) Real-world application of the Neural Inference frameworks:<br /> CO<sub>2</sub> emission forecast from time-series data
 
-See "_**co2_emission_prediction.ipynb**_" notebook for the neural framework for CO2 emission forecast from time-series data.
+See "_**co2_emission_prediction.ipynb**_" notebook for the neural framework for CO<sub>2</sub> emission forecast from time-series data.
 
 Preliminary results:
 
